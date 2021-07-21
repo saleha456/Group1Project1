@@ -3,10 +3,15 @@
 #### **Table of Contents:**
 
 Project Description
+
 Questions
+
 Data Sources
+
 Data Cleaning
+
 Analysis
+
 Team Members
 
 
@@ -39,12 +44,12 @@ Our group analyzed mortality rates by state and compared them with the alcohol c
 
 **Mortality Categories:**
 
-* HIV/AIDS
+* HIV/AIDS & Tuberculosis
 * Maternal Disorders
 * Neonatal Disorders
 * Nutritional Deficiencies
 * Cardiovascular Diseases
-* Cirrhosis / Other Chronic
+* Cirrhosis & Other Chronic
 * Neurological Disorders
 * Mental Substance Abuse
 * Diabetes Urogenital Blood
