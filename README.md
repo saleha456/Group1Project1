@@ -99,8 +99,12 @@ Table of the Strongest Positive and Negative Correlations
 
   Scatter Plot of the Strongest Correlation Between Mortality Type Cirrhosis and Ethanol Consumption in 1985
   ![strongest](Images/Cirrhosis_scatter_1985.png)
+  
+  ANOVA Test of Cirrhosis Correlation
+  ![ANOVA](Images/screenshot_ANOVA.png)
 
-[state visualization - heat map or excel heatmap of either consumption by state or mortality by state]
+Heatmap Example for Mortality Type Diabetes
+![heatmap](Images/screenshot_heatmap_diabetes.png)
 
 **Group name:** Data Crushers
 
