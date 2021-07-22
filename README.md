@@ -106,6 +106,14 @@ Table of the Strongest Positive and Negative Correlations
 Heatmap Example for Mortality Type Diabetes
 ![heatmap](Images/screenshot_heatmap_diabetes.png)
 
+**Conclusions:**
+
+* General correlation over all years is weaker than individual years
+* Moderate positive correlation for several mortality categories
+* Correlations between ethanol consumption and mortality rates associated with cirrhosis and mental/substance use moderate over multiple years
+* Ethanol consumption in the US has changed over the years analyzed - curious drop in consumption from 1980 to 1995
+* Negative correlations between ethanol consumption and mortality rates associated with cardio and diabetes
+
 **Group name:** Data Crushers
 
 **Group members:** Heather Mott, Rosali Gonzalez, Saleha Ahmed, Steven Rodriguez, Tinu Adepoju, Walter DePalma
