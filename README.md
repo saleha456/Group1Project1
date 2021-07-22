@@ -40,7 +40,8 @@ Our group analyzed mortality rates by state and compared them with the alcohol c
 
 #### **Data Cleaning:** 
 
-[screenshot here of raw csv files]
+![alcohol](Images/screenshot_alcohol_file.png)
+![mortality](Images/screenshot_mortality_file.png)
 
 **Mortality Categories:**
 
@@ -77,9 +78,9 @@ Our group analyzed mortality rates by state and compared them with the alcohol c
 
 **Analysis:**
 
-(Images/Avg_Ethanol_allyears.png)
+![line_graph](Images/Avg_Ethanol_allyears.png)
 
-[boxplot graph of alcohol consumption over the years]
+![boxplot](Images/BoxPlot_allyears.png)
 
 correlation of alcohol consumption and mortality types
 
@@ -87,9 +88,10 @@ correlation of alcohol consumption and mortality types
 
 * Strongest negative correlation = Diabetes and Cardiovascular
 
-  [display table of correlation coefficients and p-values]
+ ![correlation_table](Images/correlation_table_strongest_positive.png)
 
-  strongest correlation and strongest year [scatter plot with line]
+  strongest correlation and strongest year 
+  ![strongest](Images/Cirrhosis_scatter_1985.png)
 
 [state visualization - heat map or excel heatmap of either consumption by state or mortality by state]
 
