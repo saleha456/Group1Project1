@@ -40,7 +40,11 @@ Our group analyzed mortality rates by state and compared them with the alcohol c
 
 #### **Data Cleaning:** 
 
-[screenshot here of raw csv files]
+Screenshot of Alcohol Data File
+![alcohol](Images/screenshot_alcohol_file.png)
+
+Screenshot of Mortality Data File
+![mortality](Images/screenshot_mortality_file.png)
 
 **Mortality Categories:**
 
@@ -77,19 +81,24 @@ Our group analyzed mortality rates by state and compared them with the alcohol c
 
 **Analysis:**
 
-[line graph of alcohol consumption over time]
+Line Graph of the Average Ethanol Consumption Over All Years
+![line_graph](Images/Avg_Ethanol_allyears.png)
 
-[boxplot graph of alcohol consumption over the years]
+Box Plot of Ethanol Consumption Over All Years
 
-correlation of alcohol consumption and mortality types
+![boxplot](Images/BoxPlot_allyears.png)
+
+Correlation of alcohol consumption and mortality types
 
 * Strongest positive correlation = Cirrhosis
 
 * Strongest negative correlation = Diabetes and Cardiovascular
 
-  [display table of correlation coefficients and p-values]
+Table of the Strongest Positive and Negative Correlations
+ ![correlation_table](Images/correlation_table_strongest_positive.png)
 
-  strongest correlation and strongest year [scatter plot with line]
+  Scatter Plot of the Strongest Correlation Between Mortality Type Cirrhosis and Ethanol Consumption in 1985
+  ![strongest](Images/Cirrhosis_scatter_1985.png)
 
 [state visualization - heat map or excel heatmap of either consumption by state or mortality by state]
 
