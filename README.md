@@ -88,6 +88,9 @@ Box Plot of Ethanol Consumption Over All Years
 
 ![boxplot](Images/BoxPlot_allyears.png)
 
+ANOVA Test of Ethanol Consumption by Year
+![ANOVA](Images/screenshot_ANOVA.png)
+
 Correlation of alcohol consumption and mortality types
 
 * Strongest positive correlation = Cirrhosis
@@ -99,12 +102,9 @@ Table of the Strongest Positive and Negative Correlations
 
   Scatter Plot of the Strongest Correlation Between Mortality Type Cirrhosis and Ethanol Consumption in 1985
   ![strongest](Images/Cirrhosis_scatter_1985.png)
-  
-  ANOVA Test of Cirrhosis Correlation
-  ![ANOVA](Images/screenshot_ANOVA.png)
 
-Heatmap Example for Mortality Type Diabetes
-![heatmap](Images/screenshot_heatmap_diabetes.png)
+Heatmap Example for Mortality Type Mental/Substance Use
+![heatmap](Images/screenshot_heatmap_excel.png)
 
 **Conclusions:**
 
