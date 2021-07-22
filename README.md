@@ -40,7 +40,10 @@ Our group analyzed mortality rates by state and compared them with the alcohol c
 
 #### **Data Cleaning:** 
 
+Screenshot of Alcohol Data File
 ![alcohol](Images/screenshot_alcohol_file.png)
+
+Screenshot of Mortality Data File
 ![mortality](Images/screenshot_mortality_file.png)
 
 **Mortality Categories:**
@@ -91,6 +94,7 @@ correlation of alcohol consumption and mortality types
  ![correlation_table](Images/correlation_table_strongest_positive.png)
 
   strongest correlation and strongest year 
+  
   ![strongest](Images/Cirrhosis_scatter_1985.png)
 
 [state visualization - heat map or excel heatmap of either consumption by state or mortality by state]
