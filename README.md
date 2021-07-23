@@ -104,7 +104,7 @@ Heatmap Example for Mortality Type Mental/Substance Use
 * Correlations between ethanol consumption and mortality rates associated with cirrhosis and mental/substance use moderate over multiple years
 * Ethanol consumption in the US has changed over the years analyzed - curious drop in consumption from 1980 to 1995
 * Negative correlations between ethanol consumption and mortality rates associated with cardio and diabetes
-*  
+
 **Group name:** Data Crushers
 
 **Group members:** Heather Mott, Rosali Gonzalez, Saleha Ahmed, Steven Rodriguez, Tinu Adepoju, Walter DePalma
