@@ -93,6 +93,9 @@ Scatter Plot of the Strongest Correlation Between Mortality Type Cirrhosis and E
 
 Heatmap Example for Mortality Type Mental/Substance Use
 ![heatmap](Images/heatmap.png)
+*  This shows an increase in mental and substance abuse mortality over time
+
+*  The mortality rate is higher in states such as Alaska and New Mexico and West Virginia than compared to the rest of the country
 
 **Conclusions:**
 
@@ -101,7 +104,7 @@ Heatmap Example for Mortality Type Mental/Substance Use
 * Correlations between ethanol consumption and mortality rates associated with cirrhosis and mental/substance use moderate over multiple years
 * Ethanol consumption in the US has changed over the years analyzed - curious drop in consumption from 1980 to 1995
 * Negative correlations between ethanol consumption and mortality rates associated with cardio and diabetes
-
+*  
 **Group name:** Data Crushers
 
 **Group members:** Heather Mott, Rosali Gonzalez, Saleha Ahmed, Steven Rodriguez, Tinu Adepoju, Walter DePalma
