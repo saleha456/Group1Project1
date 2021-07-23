@@ -1,21 +1,5 @@
 ### Alcohol Consumption and Mortality
 
-#### **Table of Contents:**
-
-Project Description
-
-Questions
-
-Data Sources
-
-Data Cleaning
-
-Analysis
-
-Team Members
-
-
-
 **Project Description:**
 
 Our group analyzed mortality rates by state and compared them with the alcohol consumption volume per person in states for several different causes of death.
@@ -32,9 +16,9 @@ Our group analyzed mortality rates by state and compared them with the alcohol c
 
 **Data Sources:**
 
-[Consumption of alcohol per capita in each of 50 states + DC from 1970 - 2019](https://pubs.niaaa.nih.gov/publications/surveillance117/pcyr1970-2019.txt )
+Consumption of alcohol per capita in each of 50 states + DC from 1970 - 2019 [[National Institute of Health]](https://pubs.niaaa.nih.gov/publications/surveillance117/pcyr1970-2019.txt)
 
-[Mortality rates by state and county for 21 categories in 8 different years from 1980 - 2014](https://www.kaggle.com/IHME/us-countylevel-mortality )
+Mortality rates by state and county for 21 categories in 8 different years from 1980 - 2014 [[Journal of American Medical Association (via Kaggle)]](https://www.kaggle.com/IHME/us-countylevel-mortality)
 
 
 
@@ -88,8 +72,10 @@ Box Plot of Ethanol Consumption Over All Years
 
 ![boxplot](Images/BoxPlot_allyears.png)
 
-ANOVA Test of Ethanol Consumption by Year
+**ANOVA Test of Ethanol Consumption by Year**
 ![ANOVA](Images/screenshot_ANOVA.png)
+
+The change in ethanol consumption is significant from year to year.
 
 Correlation of alcohol consumption and mortality types
 
@@ -100,7 +86,7 @@ Correlation of alcohol consumption and mortality types
 Table of the Strongest Positive and Negative Correlations
  ![correlation_table](Images/correlation_table_strongest_positive.png)
 
-  Scatter Plot of the Strongest Correlation Between Mortality Type Cirrhosis and Ethanol Consumption in 1985
+Scatter Plot of the Strongest Correlation Between Mortality Type Cirrhosis and Ethanol Consumption in 1985
   ![strongest](Images/Cirrhosis_scatter_1985.png)
 
 Heatmap Example for Mortality Type Mental/Substance Use
@@ -117,7 +103,6 @@ Heatmap Example for Mortality Type Mental/Substance Use
 **Group name:** Data Crushers
 
 **Group members:** Heather Mott, Rosali Gonzalez, Saleha Ahmed, Steven Rodriguez, Tinu Adepoju, Walter DePalma
-
 
 
 
