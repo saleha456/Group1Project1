@@ -93,6 +93,9 @@ Scatter Plot of the Strongest Correlation Between Mortality Type Cirrhosis and E
 
 Heatmap Example for Mortality Type Mental/Substance Use
 ![heatmap](Images/heatmap.png)
+*  This shows an increase in mental and substance abuse mortality over time
+
+*  The mortality rate is higher in states such as Alaska and New Mexico and West Virginia than compared to the rest of the country
 
 **Conclusions:**
 
