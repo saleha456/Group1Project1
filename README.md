@@ -48,11 +48,8 @@ Screenshot of Mortality Data File
 **Ethanol Consumption (Beverage Types):**
 
 * Spirits
-
 * Wines
-
 * Beer
-
 * All Beverages
 
 **Years:** 1980, 1985, 1990, 1995, 2000, 2005, 2010, 2014
@@ -95,7 +92,7 @@ Heatmap Example for Mortality Type Mental/Substance Use
 ![heatmap](Images/heatmap.png)
 *  This shows an increase in mental and substance abuse mortality over time
 
-*  The mortality rate is higher in states such as Alaska and New Mexico and West Virginia than compared to the rest of the country
+*  The mortality rate is higher in states such as Alaska, New Mexico, and West Virginia than compared to the rest of the country
 
 **Conclusions:**
 
